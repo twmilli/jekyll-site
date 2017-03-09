@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="/css/home.css">
+<link rel="stylesheet" href="/css/font-awesome-4.7.0/css/font-awesome.min.css">
+<div class="home">
+  <div class="flex">
+    <div class="col-2">
+      <h1 class="page-heading">Posts</h1>
+
+      {{ content }}
+
+      <ul class="post-list">
+        {% for post in site.posts %}
+          <li>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <img src="{{ post.thumbnail }}" alt="">
+            <h2>
+              <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            </h2>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="col-1">
+      <div class="connect-wrap">
+        <h3 class="connect-text">Let's Connect</h3>
+        <a target="_blank" href="https://github.com/twmilli"> <i class="fa fa-github"></i>
+        </a>
+        <a href="https://www.linkedin.com/in/taylor-milliman/" target="_blank">
+          <i class="fa fa-linkedin"></i>
+        </a>
+        <a href="mailto:twm013@bucknell.edu" target="_blank">
+          <i class="fa fa-envelope"></i>
+        </a>
+        <a href="https://www.freecodecamp.com/twmilli" target="_blank">
+          <i class="fa fa-free-code-camp" aria-hidden="true"></i>
+        </a>
+        <a href="https://www.facebook.com/taylor.milliman1" target="_blank">
+          <i class="fa fa-facebook" aria-hidden="true"></i>
+        </a>
+        <a href="https://www.instagram.com/taytaytrey/" target="_blank">
+          <i class="fa fa-instagram" aria-hidden="true"></i>
+        </a>
+      </div>
+      <p>Cillum consequat occaecat culpa labore anim ipsum id ex pariatur aute excepteur anim tempor. Nulla nulla enim deserunt nisi elit sunt laborum eu. Voluptate aute et adipisicing eiusmod cillum eiusmod magna et consectetur deserunt velit anim amet ipsum mollit mollit. Exercitation id incididunt sunt dolore enim dolor ex et aliquip est in esse laborum. Nostrud enim eiusmod ipsum commodo proident dolore sunt enim dolore ipsum qui.</p>
+    </div>
+  </div>
+</div>
