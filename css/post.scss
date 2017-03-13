@@ -1,0 +1,54 @@
+---
+---
+@import url('https://fonts.googleapis.com/css?family=Fjord+One');
+$text-color: rgb(79, 78, 78) !default;
+.post-title{
+  color: black;
+}
+
+.post{
+  max-width: 700px;
+  margin: auto;
+  font-size: 1.2rem;
+  color: $text-color;
+  font-family: 'Fjord One', serif;
+  word-spacing: 0.1em;
+  line-height: 1.5em;
+
+  p{
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+
+  h2{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color: black;
+    font-weight: bold;
+  }
+
+  h3{
+    color: black;
+    font-size: 1.3rem;
+  }
+
+  img{
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+
+  }
+  h4{
+    margin-top: -10px;
+    text-align: center;
+    font-size: 0.9rem;
+    margin-bottom: 50px;
+  }
+
+  blockquote{
+    margin-top: 40px;
+    font-size: 1.5rem;
+    margin-bottom: 40px;
+  }
+
+}
