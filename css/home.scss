@@ -2,6 +2,10 @@
 ---
 $highlight: rgb(166, 52, 52);
 $text-color: rgb(79, 78, 78) !default;
+@import url('https://fonts.googleapis.com/css?family=Fjord+One');
+body{
+  font-family: 'Fjord One', serif;
+}
 
 .home{
   flex: 1;

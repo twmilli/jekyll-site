@@ -1,0 +1,30 @@
+---
+---
+
+$text-color: rgb(79, 78, 78) !default;
+@import url('https://fonts.googleapis.com/css?family=Fjord+One');
+.wrapper{
+  font-family: 'Fjord One', serif;
+}
+.about-img{
+
+  background-image: url(/img/about-page.jpg);
+  background-size: cover;
+  display: inline-block;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+
+  &:after{
+    content: '';
+    display: block;
+    padding-top: 50%;
+  }
+}
+
+.content{
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 10%;
+  margin-top: 50px;
+}

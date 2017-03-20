@@ -1,26 +1,91 @@
 ---
 ---
+@import url('https://fonts.googleapis.com/css?family=Fjord+One');
+$text-color: rgb(79, 78, 78) !default;
 .projects{
+  font-family: 'Fjord One', serif;
   flex: 1;
-  width: fill;
+  width: 80%;
   margin: auto;
+  display: block;
+  position: relative;
 
-  .flex{
-    display: flex;
-    flex-direction: row;
-    margin: auto;
+  h2{
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: 3em;
+  }
+    .project{
+      position: relative;
+      display: inline-block;
+      background-size: cover;
+      float: left;
+      width: 48%;
+      margin: 1%;
+      overflow: hidden;
+
+      &:after{
+        content: '';
+        display: block;
+        padding-top: 50%;
+      }
+
+      .project-meta{
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: fade-out($text-color, 0.25);
+        color: white;
+        padding: 10px;
+        font-style: italic;
+        font-size: 18px;
+        transform: translate(-100%, 0%);
+        transition: all 200ms ease-in-out;
+        opacity: 0;
+      }
   }
 
-  .col-1{
-    max-width: 500px;
-    width: 100%;
-    margin-left: -10px;
-    margin-right: -10px;
-    text-align: center;
+  .project:hover .project-meta{
+    opacity: 1;
+    transform: translate(0%,0%);
+  }
 
-    img{
-      width: 100%;
-      //height: 100%;
+  .link-btn{
+    display: block;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 20px;
+    color: black;
+    width: 30%;
+    font-size: 18px !important;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    float: left;
+    padding: 10px;
+    text-decoration: none;
+
+    &:hover{
+      background-color: black;
+      color: white;
     }
   }
+}
+
+.contact {
+  h1{
+    padding-bottom: 10px;
+    border-bottom: 5px solid $text-color;
+  }
+
+  padding: 0;
+  margin: 0;
+  margin-top: 50px;
+  display: block;
+  float: left;
+  width: 100%;
+  color: $text-color;
+  text-align: center;
 }
