@@ -3,6 +3,7 @@
 $highlight: rgb(166, 52, 52);
 $text-color: rgb(79, 78, 78) !default;
 @import url('https://fonts.googleapis.com/css?family=Fjord+One');
+@import "email";
 body{
   font-family: 'Fjord One', serif;
 }
@@ -59,43 +60,5 @@ body{
   p{
     margin-top: 20px;
     text-align: left;
-  }
-}
-
-.email-form-wrap{
-  margin-top: 50px;
-  h3{
-    text-align: left;
-    border-bottom:dashed $text-color;
-    border-bottom-width: 1px;
-  }
-
-  .button.subscribe{
-    background-image: repeating-linear-gradient(45deg, #f0f1f4, #f0f1f4 1px, white 1px, white 6px) !important;
-    color: $text-color;
-    font-size: 1.2rem;
-    text-transform: uppercase;
-    border-radius: 0px;
-    padding: 1rem 1.75rem;
-    line-height: 1 !important;
-    border: 1px solid;
-
-    &:hover{
-      cursor: pointer;
-      color: $highlight;
-    }
-  }
-
-  .email{
-    border: 1px solid $text-color;
-    margin-bottom: 10px;
-    padding: 10px;
-    font-size: 1.1rem;
-    width: 90%;
-
-    &:focus{
-      outline: none;
-      box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.3);
-    }
   }
 }
