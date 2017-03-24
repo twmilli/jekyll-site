@@ -30,6 +30,7 @@ body{
     border-bottom:dashed $text-color;
     border-bottom-width: 1px;
   }
+
   a{
     margin: 4px;
     color: $text-color;
@@ -60,4 +61,12 @@ body{
     margin-top: 20px;
     text-align: left;
   }
+}
+
+@media(max-width: 640px){
+
+  .col-1{
+    display: none;
+  }
+
 }

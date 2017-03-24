@@ -89,3 +89,12 @@ $text-color: rgb(79, 78, 78) !default;
   color: $text-color;
   text-align: center;
 }
+
+@media(max-width: 640px){
+  .link-btn{
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    margin-top: 10px;
+    width: 80% !important;
+  }
+}

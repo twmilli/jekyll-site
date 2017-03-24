@@ -4,18 +4,18 @@ title: Reading
 permalink: /reading/
 ---
 On my list to read:
-* [Stealing Fire](http://a.co/7Z5FMmL) by Steven Kotler & Jamie Wheal
-* [Reinvent Yourself](http://a.co/cXgnnvg) by James Altucher
-* [Unshakeable](http://a.co/iMf0uDw) by Tony Robbins
-* [Sapiens](http://a.co/13H7aFe) by Deckle Edge
-* [Losing My Virginity](http://a.co/5zXlWVl) by Richard Branson
+* <a target="_blank" href="https://www.amazon.com/gp/product/0062429655/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062429655&linkCode=as2&tag=myblog06bf-20&linkId=f5e917dceacb4f2ad59e1bb0751ab2f9">Stealing Fire</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=myblog06bf-20&l=am2&o=1&a=0062429655" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by Steven Kotler & Jamie Wheal
+* <a target="_blank" href="https://www.amazon.com/gp/product/1541137132/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1541137132&linkCode=as2&tag=myblog06bf-20&linkId=a6d272e16a28eff6a4126e249fee1444">Reinvent Yourself</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=myblog06bf-20&l=am2&o=1&a=1541137132" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by James Altucher
+* <a target="_blank" href="https://www.amazon.com/gp/product/1501164589/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1501164589&linkCode=as2&tag=myblog06bf-20&linkId=107f2d96e599cf7ad9fdffcaeb90b32e">Unshakeable</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=myblog06bf-20&l=am2&o=1&a=1501164589" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by Tony Robbins
+* <a target="_blank" href="https://www.amazon.com/gp/product/0062316095/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062316095&linkCode=as2&tag=myblog06bf-20&linkId=5198f9031abf6ce66f3521ae0677d28a">Sapiens: A Brief History of Humankind</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=myblog06bf-20&l=am2&o=1&a=0062316095" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by Deckle Edge
+* <a target="_blank" href="https://www.amazon.com/gp/product/0307720748/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307720748&linkCode=as2&tag=myblog06bf-20&linkId=a78ce9a2a6e8ee07c3838b66f903d286">Losing My Virginity</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=myblog06bf-20&l=am2&o=1&a=0307720748" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by Richard Branson
 
 Currently reading:
-* [The Inevitable](http://a.co/8Cbn9Zj) by Kevin Kelly
-* [A Guide to the Good Life: The Ancient Art of Stoic Joy](http://a.co/7xVN8Ak) by William Braxton Irvine
+* <a target="_blank" href="https://www.amazon.com/gp/product/0525428089/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0525428089&linkCode=as2&tag=myblog06bf-20&linkId=c1b436a6bcdf3adbb5c755092579e147">The Inevitable</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=myblog06bf-20&l=am2&o=1&a=0525428089" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by Kevin Kelly
+* <a target="_blank" href="https://www.amazon.com/gp/product/B011T71D4Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B011T71D4Y&linkCode=as2&tag=myblog06bf-20&linkId=3251db38c76da37dc0cd72c94422bab9">A Guide to the Good Life: The Ancient Art of Stoic Joy by William B Irvine (5-Feb-2009) Hardcover</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=myblog06bf-20&l=am2&o=1&a=B011T71D4Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by William Braxton Irvine
 
 Books I have read in recent memory (estimated dates):
-* [Doing Good Better](http://a.co/cavbYDJ) by William MacAskill (3/17)
+* <a target="_blank" href="https://www.amazon.com/gp/product/B011T71D4Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B011T71D4Y&linkCode=as2&tag=myblog06bf-20&linkId=314b72e2502e1bd6f07855a8e6d2ba68">Doing Good Better</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=myblog06bf-20&l=am2&o=1&a=B011T71D4Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by William MacAskill (3/17)
 * [Heat](http://a.co/9vXZc0I) by Bill Buford (3/17)
 * [Search inside yourself](http://a.co/dX2tBLE) by Chade-Meng Tan (2/17)
 * [The Power of Broke](http://a.co/foZ4Tnw) by Daymond John (2/17)
