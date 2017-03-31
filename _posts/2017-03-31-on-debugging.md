@@ -3,6 +3,7 @@ layout: post
 title:  "On Debugging"
 date:   2017-03-31
 comments: true
+thumbnail: "/img/posts/2017-03-31/debugbanner.jpg"
 ---
 
 [banner]:/img/posts/2017-03-31/debugbanner.jpg
