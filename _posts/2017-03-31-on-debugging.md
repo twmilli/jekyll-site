@@ -27,9 +27,9 @@ Interestingly, I actually know much less about their code than they do, but I
 am usually able to find the source of their issue not because of what I know,
 but because of my mindset.
 
-Oftentimes your mindset can be even more important that what you know.
+Oftentimes your mindset can be even more important than what you know.
 
-Here's a link favorite podcast all about debugging.  If you have any interest in technology,
+Here's a link favorite podcast all about debugging.  Even if you don't have a technical background,
 I think you'll find it highly entertaining.
 
 [Debugging Stories with Haseeb Qureshi](https://softwareengineeringdaily.com/2016/11/19/debugging-stories-with-haseeb-qureshi/)
