@@ -39,3 +39,9 @@ $text-color: rgb(79, 78, 78) !default;
     }
   }
 }
+
+.col-2{
+  .email-form-wrap{
+    display: none;
+  }
+}
