@@ -21,8 +21,10 @@ url: "http://taylormilliman.me/" # the base hostname & protocol for your site, e
 
 # Build settings
 markdown: kramdown
+paginate: 10
 gems:
   - jekyll-feed
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
