@@ -48,6 +48,9 @@ body{
   margin-left: 50px;
 }
 .col-2{
+  .email-form-wrap{
+    display: none;
+  }
   margin: 0 10px;
   max-width: 600px;
 }
@@ -67,6 +70,12 @@ body{
 
   .col-1{
     display: none;
+  }
+  .col-2{
+    width: 75%;
+    .email-form-wrap{
+      display: block;
+    }
   }
 
 }
