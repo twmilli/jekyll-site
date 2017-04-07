@@ -49,9 +49,8 @@ body{
 }
 
 .col-2{
-
   .email-form-wrap{
-    display: none;
+    display: none !important;
   }
 
   margin: 0 10px;
