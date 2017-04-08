@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why I make my goals around things I can fully control"
+title:  "Goals through the lens of stoicism"
 date:   2017-04-07
 comments: true
 thumbnail: "/img/posts/2017-04-07/goalbanner.jpg"
