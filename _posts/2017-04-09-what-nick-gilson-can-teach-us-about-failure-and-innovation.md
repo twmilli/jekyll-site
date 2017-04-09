@@ -63,7 +63,7 @@ their competitors.
 
 ### 3. It takes tons and tons of work---and you might still fail
 
-While Nick was working at a school, he said spent roughly 100 hours a week in school and creating lesson plans while spending what little free time he did have building his first snowboards.
+While Nick was working at a school, he said spent roughly 100 hours a week in school and creating lesson plans, while spending what little free time he did have building his first snowboards.
 
 He spent a year working at a cabin in rural Pennsylvania with no electricity or running water building the first 30 snowboards, so that he could invest as much money as possible into the materials and machinery to make the boards.
 

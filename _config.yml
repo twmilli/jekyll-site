@@ -22,6 +22,7 @@ url: "http://taylormilliman.me/" # the base hostname & protocol for your site, e
 # Build settings
 markdown: kramdown
 paginate: 10
+google_analytics: UA-97092381-1
 gems:
   - jekyll-feed
   - jekyll-paginate
