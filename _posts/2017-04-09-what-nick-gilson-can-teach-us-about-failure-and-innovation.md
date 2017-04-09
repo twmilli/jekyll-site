@@ -16,9 +16,9 @@ Nick is the Founder and CEO of Gilson Boards, a ski a snowboard manufacturer loc
 
 His talk was incredibly insightful and inspirational, and I wanted to share my key takeaways.
 
-### 1. You don't need to know everything to get started.
+### 1. A creative mindset often trumps knowledge.
 
-You just need the confidence in yourself that you can figure it out along the way.
+You don't need to know everything. You just need the confidence in yourself that you can figure it out along the way.
 
 While Nick was teaching for a failing school in Nashville Tennessee, he made the decision
 to not "teach to the test".
@@ -74,6 +74,8 @@ In hindsight, it's easy to justify all the work that went into creating Gilson, 
 Despite the fact that Gilson has now become a success story, the majority of new businesses still fail.  You have to be willing to put in the work despite knowing that the odds are against you.  Nick started a business because he couldn't help but try out his ideas in his spare time.
 
 This kind of insane work ethic is only possible if you really love what you do.
+
+The odds of changing the world are against us everyday.  It's on us to find something we love enough to overcome them.
 
 _______
 Thanks for reading, and thank you Nick for giving a sick talk!
