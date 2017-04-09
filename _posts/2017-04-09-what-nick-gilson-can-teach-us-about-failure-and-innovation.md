@@ -50,18 +50,16 @@ Nick spent most of a school year designing and building his first prototypes. Du
 
 It failed.
 
-When he returned to his classroom in Nashville, he presented all of the data he had collected, and explained to the kids that his project had been a complete failure. I had fun he told them, but I think it's time for me to give it up.
+When he returned to his classroom in Nashville, he presented all of the data he had collected, and explained to the kids that his project had been a complete failure. I had fun he told them, but I think it's time for me to move on to something new.
 
 One of the kids in his class raised his hand and said "If you can quit, then we can too".
 
-So Nick realized he had no choice but to keep at it. He took another look at all of the problems with his design and iterated to find ways to fix the problems. A few years later his class told him it was time to quit his job in order to pursue his dream full time.
+So Nick realized he had no choice but to keep at it. He took another look at all of the problems with his design and iterated to find ways to solve them. A few years later his class told him it was time to quit his job as a teacher in order to pursue his dream full time.
 
-Fast forward a few years and Nick hit a wall again. Gilson Boards contacted to over 8000 retailers and was rejected from every single one of them.  Instead of giving up, they found a way to find
+Fast forward a few years and Nick hit a wall again. Gilson Boards contacted over 8000 retailers and was rejected from every single one of them.  Instead of giving up, they found a way to find
 their own customers and cost effectively ship direct to consumer.  This allows them to maintain
 a healthy margin, despite being 100% American made and sourcing higher quality materials than
 their competitors.
-
-Most innovation comes from mistakes or failures.  If you want to create something new, chances are good you'll have to overcome at least one major obstacle.
 
 ### 3. It takes tons and tons of work---and you might still fail
 
