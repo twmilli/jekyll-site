@@ -32,7 +32,7 @@ How can you reframe your focus so that you win regardless of what happens outsid
 
 Note: This post was inspired by <a target="_blank" href="https://www.amazon.com/gp/product/B011T71D4Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B011T71D4Y&linkCode=as2&tag=myblog06bf-20&linkId=3251db38c76da37dc0cd72c94422bab9">A Guide to the Good Life: The Ancient Art of Stoic Joy</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=myblog06bf-20&l=am2&o=1&a=B011T71D4Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-If you're interested in learning more about stoicism, I highly recommend checking our this book as well as these other resources:
+If you're interested in learning more about stoicism, I highly recommend checking out this book as well as these other resources:
 
 * [The Tao of Seneca: Practical Letters from a Stoic Master](http://www.audible.com/pd/Nonfiction/The-Tao-of-Seneca-Audiobook/B01AIXEJKU)
 * [The Obstacle Is The Way](http://www.audible.com/pd/Self-Development/The-Obstacle-Is-the-Way-Audiobook/B00K252ET8/ref=a_search_c4_1_1_srTtl?qid=1399406050&sr=1-1) by Ryan Holiday
