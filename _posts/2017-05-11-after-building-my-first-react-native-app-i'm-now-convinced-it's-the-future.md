@@ -23,7 +23,8 @@ The app allows users to search through a database of over 1,000 recipes, and con
 Users can also bookmark recipes and easily share them with a friend.
 
 <iframe src="https://player.vimeo.com/video/216103204" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-Note that I’m still waiting for permission from the blog to publish this app, and in the meantime I’m keeping the code closed-source.
+
+I’m still waiting for permission from the blog to publish this app, but you can check out all of the code [here](https://github.com/twmilli/smitten-kitchen). Note that the url for my API has been stubbed for the time being out of respect for Smitten Kitchen.
 
 ## React Native isn’t going away any time soon
 A common reservation among developers is that they don’t want to invest the time to learn a new technology if there’s a strong chance it will become obsolete in the near future.
