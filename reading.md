@@ -12,10 +12,13 @@ On my list to read:
 * <a target="_blank" href="https://www.amazon.com/gp/product/B00BBPW0WE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BBPW0WE&linkCode=as2&tag=myblog06bf-20&linkId=ffa4b39078198a33793e0ef56f0d9801">Freshwater Boys: Stories</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=myblog06bf-20&l=am2&o=1&a=B00BBPW0WE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by Adam Schuitema
 
 Currently reading:
-* <a target="_blank" href="https://www.amazon.com/gp/product/0525428089/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0525428089&linkCode=as2&tag=myblog06bf-20&linkId=c1b436a6bcdf3adbb5c755092579e147">The Inevitable</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=myblog06bf-20&l=am2&o=1&a=0525428089" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by Kevin Kelly
-* <a target="_blank" href="https://www.amazon.com/gp/product/B011T71D4Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B011T71D4Y&linkCode=as2&tag=myblog06bf-20&linkId=3251db38c76da37dc0cd72c94422bab9">A Guide to the Good Life: The Ancient Art of Stoic Joy </a><img src="//ir-na.amazon-adsystem.com/e/ir?t=myblog06bf-20&l=am2&o=1&a=B011T71D4Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by William Braxton Irvine
+* [Total Recall: My Unbelievably True Life Story](https://www.audible.com/pd/Bios-Memoirs/Total-Recall-Audiobook/B009GLC5ES)
+by Arnold Schwarzenegger
+
 
 Books I have read in recent memory (estimated dates):
+* [Born for This](http://a.co/3RNrV9O) by Chris Guillebeau (5/17)
+* <a target="_blank" href="https://www.amazon.com/gp/product/B011T71D4Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B011T71D4Y&linkCode=as2&tag=myblog06bf-20&linkId=3251db38c76da37dc0cd72c94422bab9">A Guide to the Good Life: The Ancient Art of Stoic Joy </a><img src="//ir-na.amazon-adsystem.com/e/ir?t=myblog06bf-20&l=am2&o=1&a=B011T71D4Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by William Braxton Irvine (5/17)
 * <a target="_blank" href="https://www.amazon.com/gp/product/B011T71D4Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B011T71D4Y&linkCode=as2&tag=myblog06bf-20&linkId=314b72e2502e1bd6f07855a8e6d2ba68">Doing Good Better</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=myblog06bf-20&l=am2&o=1&a=B011T71D4Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by William MacAskill (3/17)
 * [Heat](http://a.co/9vXZc0I) by Bill Buford (3/17)
 * [Search inside yourself](http://a.co/dX2tBLE) by Chade-Meng Tan (2/17)
