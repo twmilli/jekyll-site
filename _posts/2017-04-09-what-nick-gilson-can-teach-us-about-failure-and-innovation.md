@@ -75,7 +75,7 @@ This kind of insane work ethic is only possible if you really love what you do.
 
 The odds of changing the world are against us everyday.  It's on us to find something we love enough to overcome them.
 
-_______
+eky
 Thanks for reading, and thank you Nick for giving a sick talk!
 
 To find out more about his company, visit [gilsonboards.com](http://www.gilsonboards.com/)
