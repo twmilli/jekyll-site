@@ -55,12 +55,6 @@ Keep in mind that I chose to work in a prime location close to downtown. If you 
 
 Is it really worth it to pay this much to live in SF?  How are you going to survive sharing a small space with so many other people?  I have no idea, but I'll keep you updated!
 
-In case you want to send me mail:
-
-Alex T Kennedy\\
-1222 HARRISON ST APT 7601\\
-SAN FRANCISCO CA 94103
-
 ## Work
 I don't have much to report in this area considering I haven't started yet, but my first day of work is this Tuesday!
 
