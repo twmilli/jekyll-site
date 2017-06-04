@@ -76,7 +76,7 @@ I won't lie, the first few days of the internship were stressful.
 
 I was jumping into a new work environment, working with technologies I've never touched, on a scale that none of my projects have come remotely close to.
 
-At the end of my first two days, it was tough to not get down on myself.
+By the end of my first two days, I was finding it tough to not get down on myself.
 
 What can I possibly offer to Braintree when I am surrounded by people that know so much more than me?  What if I'm not good enough.  How will I ever reach the level of everyone around me?
 
