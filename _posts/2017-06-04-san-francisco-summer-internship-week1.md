@@ -78,9 +78,9 @@ I was jumping into a new work environment, working with technologies I've never 
 
 By the end of my first two days, I was finding it tough to not get down on myself.
 
-What can I possibly offer to Braintree when I am surrounded by people that know so much more than me?  What if I'm not good enough.  How will I ever reach the level of everyone around me?
+What can I possibly offer to Braintree when I am surrounded by people that know so much more than me?  What if I'm not good enough?  How will I ever reach the level of everyone around me?
 
-If you've ever felt this way in any facet of your life, I've found it helpful to take a step back.
+If you've ever felt this way in any facet of your life, I think it's helpful to take a step back.
 
 Regardless of who you are or what you're doing, you have something unique to offer.
 
@@ -160,4 +160,4 @@ The more I learn about voice and Alexa as a technology, the more I see it as a h
 Amazon is doing a huge [promotion](https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promotion) for the month of June to give an echo dot to anyone who publishes an Alexa skill.  Whether you are a developer or not, I highly reccommend taking an hour to work through one of the [tutorials](https://developer.amazon.com/alexa-skills-kit/alexa-skills-developer-training), both for a free dot, and to get a better understand of the voice ecosystem.
 
 ____
-That's all for this week folks.  Thanks for being here.
+That's all for this week folks.  Check back next week for more updates and fun stories.  Thanks for being here.
