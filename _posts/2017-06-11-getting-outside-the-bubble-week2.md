@@ -18,6 +18,14 @@ Things have calmed down a lot since I talked to you last.  Although I've only be
 
 There's not too much new or crazy to talk about this week, but that's okay.
 
+Work is awesome, I committed my first piece of code on our project, learned a ton about Ruby on Rails and got a high level overview about how the payments industry works.
+
+Fun Fact: If you've ever wondered how [Venmo](https://venmo.com/) makes money, spoiler alert: they don't.
+
+Outside of work I've been busy biking, exploring, and watching warriors games on our rooftop.
+
+## Life
+
 I've noticed I have a tendency to sometimes keep my schedule overly regimented.  On one hand, it's great for productivity, but we all need a little spontaneity in our lives.
 
 Most days I get up, go to the gym, bike to work and spend the day coding and learning from cool people.  Then I bike home, cook dinner, hangout with my roommates, read, and go to bed.  This is a slight exaggeration, but in general it's fairly accurate.
@@ -40,6 +48,8 @@ Now, I'm probably not going to adopt quite the same lifestyle, but I think it se
 #### [Amazon Alexa San Francisco Meetup](https://www.meetup.com/SF-Amazon-Alexa/events/239733405/?comment_table_id=252723127&comment_table_name=reply).  Not "crazy" but still fun.
 
 Sometimes the most rich experiences in life are just outside our comfort zone.  Hopefully I can update you in the coming weeks about some weird or crazy event that I went to.
+
+Or it could be something as simple going to an open event without knowing anyone.
 
 ![Rooftop views][roof2]
 #### More rooftop views.
