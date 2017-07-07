@@ -19,7 +19,7 @@ comments: true
 [van]:/img/posts/2017-07-05/van.jpeg
 [foodbank]:/img/posts/2017-07-05/foodbank.jpg
 
-![rocks][rocks]
+![banner][banner]
 #### San Harbor
 
 It's tough to believe that the 4th of July has already come and gone and that I've been at my internship for 5 and 1/2 weeks (?!!).
