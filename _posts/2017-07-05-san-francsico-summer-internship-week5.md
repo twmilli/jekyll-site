@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Roadtripping to LAKE TAHOE"
-thumbnail: "/img/posts/2017-07-05/rocks.jpg"
+thumbnail: "/img/posts/2017-07-05/rocks.JPG"
 comments: true
 ---
 
-[banner]:/img/posts/2017-07-05/rocks.jpg
+[banner]:/img/posts/2017-07-05/rocks.JPG
 [handstand]:/img/posts/2017-07-05/handstand.jpg
-[hike_crew]:/img/posts/2017-07-05/hike_crew.jpg
+[hike_crew]:/img/posts/2017-07-05/hike_crew.JPG
 [hike_friends]:/img/posts/2017-07-05/hike_friends.jpg
 [pizza]:/img/posts/2017-07-05/pizza.jpg
 [rock_crew]:/img/posts/2017-07-05/rock_crew.jpg
