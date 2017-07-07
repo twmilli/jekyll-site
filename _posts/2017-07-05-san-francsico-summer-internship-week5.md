@@ -19,6 +19,9 @@ comments: true
 [van]:/img/posts/2017-07-05/van.jpeg
 [foodbank]:/img/posts/2017-07-05/foodbank.jpg
 
+![rocks][rocks]
+#### San Harbor
+
 It's tough to believe that the 4th of July has already come and gone and that I've been at my internship for 5 and 1/2 weeks (?!!).
 
 ![food bank][foodbank]
@@ -75,8 +78,6 @@ Lake Tahoe Fun Facts (provided by our Uber driver):
 Back at the cabin we changed into swimsuits, caked on as much sunscreen as we could bear, and climbed back in the van to head to [Sand Harbor](http://parks.nv.gov/parks/lake-tahoe-nevada-state-park).  I'll let the pictures speak for themselves here.
 
 ![rocks and people][rock_crew]
-
-![rocks][banner]
 
 The night came to a close with pizza, champagne, and most of us passed out before midnight after a long day.  The next morning we snuck in a few more hours lounging and kayaking at King's Beach before starting the long drive home.
 
