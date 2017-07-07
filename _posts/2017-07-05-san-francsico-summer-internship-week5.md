@@ -5,7 +5,7 @@ thumbnail: "/img/posts/2017-07-05/rocks.jpg"
 comments: true
 ---
 
-[banner]:/img/posts/2017-07-05/rocks.JPG
+[banner]:/img/posts/2017-07-05/rocks.jpg
 [handstand]:/img/posts/2017-07-05/handstand.jpg
 [hike_crew]:/img/posts/2017-07-05/hike_crew.jpg
 [hike_friends]:/img/posts/2017-07-05/hike_friends.jpg
