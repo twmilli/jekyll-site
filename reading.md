@@ -12,11 +12,14 @@ On my list to read:
 * <a target="_blank" href="https://www.amazon.com/gp/product/B00BBPW0WE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BBPW0WE&linkCode=as2&tag=myblog06bf-20&linkId=ffa4b39078198a33793e0ef56f0d9801">Freshwater Boys: Stories</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=myblog06bf-20&l=am2&o=1&a=B00BBPW0WE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by Adam Schuitema
 
 Currently reading:
-* [Total Recall: My Unbelievably True Life Story](https://www.audible.com/pd/Bios-Memoirs/Total-Recall-Audiobook/B009GLC5ES)
-by Arnold Schwarzenegger
-
+* [Moneyball](https://www.amazon.com/Moneyball-Art-Winning-Unfair-Game/dp/0393324818) by Michael Lewis
+* [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](http://a.co/9lCd1fS) by Ashlee Vance
 
 Books I have read in recent memory (estimated dates):
+* [The World Changer's Handbook](https://www.amazon.com/World-Changers-Handbook-Creating-Impactful/dp/1545082693) by Zachary Jones (8/17)
+* [Steal Like an Artist](https://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253) by Austin Kleon (7/17)
+* [Total Recall: My Unbelievably True Life Story](https://www.audible.com/pd/Bios-Memoirs/Total-Recall-Audiobook/B009GLC5ES)
+by Arnold Schwarzenegger (6/17)
 * [Born for This](http://a.co/3RNrV9O) by Chris Guillebeau (5/17)
 * <a target="_blank" href="https://www.amazon.com/gp/product/B011T71D4Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B011T71D4Y&linkCode=as2&tag=myblog06bf-20&linkId=3251db38c76da37dc0cd72c94422bab9">A Guide to the Good Life: The Ancient Art of Stoic Joy </a><img src="//ir-na.amazon-adsystem.com/e/ir?t=myblog06bf-20&l=am2&o=1&a=B011T71D4Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by William Braxton Irvine (5/17)
 * <a target="_blank" href="https://www.amazon.com/gp/product/B011T71D4Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B011T71D4Y&linkCode=as2&tag=myblog06bf-20&linkId=314b72e2502e1bd6f07855a8e6d2ba68">Doing Good Better</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=myblog06bf-20&l=am2&o=1&a=B011T71D4Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by William MacAskill (3/17)
